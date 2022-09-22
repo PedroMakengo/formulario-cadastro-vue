@@ -17,4 +17,13 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+.main-login {
+  width: 70%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: auto;
+}
+</style>
